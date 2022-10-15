@@ -1,0 +1,3 @@
+<launch>
+    <node name="toGoal" pkg="deneme" type="move.py" output="screen"/>
+</launch>
